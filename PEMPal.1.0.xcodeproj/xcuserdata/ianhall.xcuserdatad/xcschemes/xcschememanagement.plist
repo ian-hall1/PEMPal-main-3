@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>PEMPal.1 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>PEMPal.1.0 Watch App.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>PEMPal.1.0.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>81DF3E14296F69D000F7CAFE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>81DF3E24296F69D100F7CAFE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>81DF3E2E296F69D100F7CAFE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>81DF3E3A296F69D100F7CAFE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>81DF3E4C296F69D200F7CAFE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>81DF3E56296F69D200F7CAFE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
